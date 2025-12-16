@@ -1,0 +1,59 @@
+{
+    "resultCode": 200,
+    "resultMessage": "성공적으로 데이터를 가지고 왔습니다.",
+    "result": {
+        "pagging": {
+            "totCount": 1,
+            "pageNum": 3,
+            "pageSize": 1000
+        },
+        "youthPolicyList": [
+            {
+                "plcyNo": "20240903005400200001",
+                "plcyNm": "결혼 비용 대출이자 지원사업",
+                "plcyKywdNm": "대출,보조금",
+                "plcyExplnCn": "초기 결혼자금에 대한 부담 완화를 통해 결혼 친화 환경을 조성하고, 청년 신혼부부에 대한 경제적 지원을 통해 출산ㆍ육아 등 안정적 지역정착 기반을 마련",
+                "lclsfNm": "복지문화",
+                "mclsfNm": "취약계층 및 금융지원",
+                "plcySprtCn": "가구당 연 최대 50만원 대출이자 지원(최대 2년간 100만원)\n\n신용대출  \n‣ 제1·2금융권 신용대출           \n‣ 혼인신고 전 1년이내 시행\n주택자금대출\n‣ 전세·매입·임대·생활안정자금대출(전용면적 85㎡이하)\n‣ 혼인신고 전 1년이내, 후 6개월 이내 시행\n한도대출\n‣ 마이너스통장 \n‣ 혼인신고 전 1년이내 시행\n",
+                "sprvsnInstCd": "       ",
+                "sprvsnInstCdNm": "인구청년정책담당관",
+                "sprvsnInstPicNm": "",
+                "operInstCd": "       ",
+                "operInstCdNm": "-",
+                "operInstPicNm": "",
+                "sprtSclLmtYn": "N",
+                "aplyPrdSeCd": "0057001",
+                "bizPrdSeCd": "0056001",
+                "bizPrdBgngYmd": "20250101",
+                "bizPrdEndYmd": "20251231",
+                "bizPrdEtcCn": "",
+                "plcyAplyMthdCn": "주소지 읍·면·동 행정복지센터 방문, 연중 수시 신청\n  ※ 신청서식 및 세부사항 시군 홈페이지 공고 참조 ",
+                "srngMthdCn": "-",
+                "aplyUrlAddr": "",
+                "sbmsnDcmntCn": "  ※ 신청서식 및 세부사항 시군 홈페이지 공고 참조 ",
+                "etcMttrCn": "□ 문의처 : (총괄)충북도청 인구정책담당관 (☎ 043-220-4772)\n▸청주시여성가족과(043-201-1763), 충주시기획예산과(043-850-5267), 제천시미래정책과(043-641-5273)\n▸보은군미래전략과(043-540-3708), 옥천군성장정책과(043-730-3784), 영동군미래전략과(043-740-3047)\n▸증평군미래전략과(043-835-4623), 진천군인구정책과(043-539-4193), 괴산군미래전략과(043-830-3207)\n▸음성군2030전략실(043-871-5413), 단양군미래전략과(043-420-3113)",
+                "refUrlAddr1": "",
+                "refUrlAddr2": "",
+                "sprtSclCnt": "",
+                "addAplyQlfcCndCn": "청년 신혼부부(19~39세)  ※ 혼인신고 후 1년이내 신청",
+                "ptcpPrpTrgtCn": "",
+                "inqCnt": "325",
+                "rgtrInstCd": "6430000",
+                "rgtrInstCdNm": "충청북도",
+                "rgtrUpInstCd": "6430000",
+                "rgtrUpInstCdNm": "충청북도",
+                "rgtrHghrkInstCd": "6430000",
+                "rgtrHghrkInstCdNm": "충청북도",
+                "zipCd": "43000",
+                "plcyMajorCd": "0011009",
+                "jobCd": "0013010",
+                "schoolCd": "0049010",
+                "aplyYmd": "20250101 ~ 20251231",
+                "frstRegDt": "2024-09-03 09:06:00",
+                "lastMdfcnDt": "2025-02-25 09:28:52",
+                "sbizCd": "0014010"
+            }
+        ]
+    }
+}

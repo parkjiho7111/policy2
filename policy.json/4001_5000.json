@@ -1,0 +1,59 @@
+{
+    "resultCode": 200,
+    "resultMessage": "성공적으로 데이터를 가지고 왔습니다.",
+    "result": {
+        "pagging": {
+            "totCount": 1,
+            "pageNum": 5,
+            "pageSize": 1000
+        },
+        "youthPolicyList": [
+            {
+                "plcyNo": "20240214005400200002",
+                "plcyNm": "청년 창업지원자금 융자지원",
+                "plcyKywdNm": "대출",
+                "plcyExplnCn": "우수한 창업기업 발굴 육성을 통하여 청년창업가 육성",
+                "lclsfNm": "일자리,일자리",
+                "mclsfNm": "취업,창업",
+                "plcySprtCn": " - 지원분야 및 업종 : 신성장동력산업 및 고부가가치 창업분야 집중 지원\n     ․ 지식창업 : 지식콘텐츠, 통신업, 웹디자인, 컴퓨터프로그램밍 등\n     ․ 기술창업 : 기계, 재료, 전기, 전자, 정보, 통신, 화공, 섬유 등\n     ․ 일반창업 : 통신판매업, 유통업(도매업), 아이디어 창업 등\n       ※ 1인 1분야만 지원(협업자 참여 등 중복 지원신청시 지원 제외)\n    - 지원조건 : 융자금리(연 3.0%, 고정), 융자기간(1년거치 4년균분상환), \n                 융자한도(1억원 이내)  ※ 여성기업 또는 장애인기업(0.5%금리우대)",
+                "sprvsnInstCd": "6430887",
+                "sprvsnInstCdNm": "충청북도 경제기업과 기업정책팀",
+                "sprvsnInstPicNm": "",
+                "operInstCd": "       ",
+                "operInstCdNm": "",
+                "operInstPicNm": "",
+                "sprtSclLmtYn": "N",
+                "aplyPrdSeCd": "0057001",
+                "bizPrdSeCd": "0056001",
+                "bizPrdBgngYmd": "20250101",
+                "bizPrdEndYmd": "20251231",
+                "bizPrdEtcCn": "",
+                "plcyAplyMthdCn": "충청북도 기업진흥원 공고 확인 / 온라인, 우편, 방문접수(충북기업진흥원)\nhttp://www.cba.ne.kr",
+                "srngMthdCn": "충청북도 기업진흥원 공고 확인",
+                "aplyUrlAddr": "http://www.cba.ne.kr",
+                "sbmsnDcmntCn": "충청북도 기업진흥원 공고 확인",
+                "etcMttrCn": "신청 시기 2025.1.6. ~ 자금소진시까지",
+                "refUrlAddr1": "",
+                "refUrlAddr2": "",
+                "sprtSclCnt": "",
+                "addAplyQlfcCndCn": "해당없음",
+                "ptcpPrpTrgtCn": "해당없음",
+                "inqCnt": "8059",
+                "rgtrInstCd": "6430000",
+                "rgtrInstCdNm": "충청북도",
+                "rgtrUpInstCd": "6430000",
+                "rgtrUpInstCdNm": "충청북도",
+                "rgtrHghrkInstCd": "6430000",
+                "rgtrHghrkInstCdNm": "충청북도",
+                "zipCd": "43000",
+                "plcyMajorCd": "0011009",
+                "jobCd": "0013006",
+                "schoolCd": "0049010",
+                "aplyYmd": "20250106 ~ 20251231",
+                "frstRegDt": "2024-02-14 16:10:21",
+                "lastMdfcnDt": "2025-02-25 09:25:29",
+                "sbizCd": "0014010"
+            }
+        ]
+    }
+}
